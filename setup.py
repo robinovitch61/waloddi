@@ -14,7 +14,7 @@ setup(
     description="weibull analysis toolbox",
     author="Leo Robinovitch",
     author_email='leorobinovitch@gmail.com',
-    url='',
+    url='https://github.com/robinovitch61/waloddi',
     install_requires=requirements,
     packages=find_packages('src'),
     package_dir={'': 'src'},
@@ -29,11 +29,3 @@ setup(
         'Programming Language :: Python :: 3.7',
     ]
 )
-
-
-
-
-
-
-
-
